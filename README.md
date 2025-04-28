@@ -1,7 +1,7 @@
 # Addidas-Vs-Nike
+## 📦 Returns & Customer Feedback Analysis
 ![image](https://github.com/user-attachments/assets/016c7aa2-aac6-4efe-b585-8f95039a8da8)
 Image : medium
-## 📦 Returns & Customer Feedback Analysis
 This project is a focused analysis on customer return behavior and how it relates to ratings and product types, using the Adidas vs Nike dataset sourced from Kaggle.
 
 The objective is to uncover key insights behind high return rates using Excel for data wrangling and analysis. This work supports inventory decisions, product lifecycle management, and customer satisfaction improvements.
