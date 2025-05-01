@@ -2,14 +2,14 @@
 **A Data-Driven Comparison of Adidas vs Nike**
 ![image](https://github.com/user-attachments/assets/016c7aa2-aac6-4efe-b585-8f95039a8da8)
 Image : medium
+
+
 This project explores customer return behavior and product satisfaction using a curated Adidas vs Nike dataset (sourced from Kaggle). The primary objective is to identify patterns behind high return rates and how they relate to product ratings, categories, and brands. The analysis was conducted using **Microsoft Excel**, focusing on actionable insights for product lifecycle decisions, inventory planning, and customer satisfaction strategies.
 
----
 
 ## 📊 Objective  
 To analyze return patterns and their correlation with customer ratings and product types — supporting smarter decisions in fashion retail sales.
 
----
 
 ## 🧹 Data Preparation
 
@@ -34,7 +34,6 @@ To analyze return patterns and their correlation with customer ratings and produ
    ```
    This simulates realistic return behavior between **0% and 30%** per product.
 
----
 
 ## 📈 Exploratory Data Analysis
 
@@ -58,7 +57,7 @@ To analyze return patterns and their correlation with customer ratings and produ
 - **Rows**: Rating Category (`Low`, `High`)
 - **Values**: Average Return Rate (%)
 - Compared across brands and product lines.
----
+
 
 ## 🎯 Key Insights
 
@@ -67,7 +66,7 @@ To analyze return patterns and their correlation with customer ratings and produ
 3. **Adidas Originals** dominates in total sales and revenue — despite a higher return rate.
 4. Results are consistent across **USD and EUR regions**, with only minor variations in return ratios.
 <img width="1206" alt="image" src="https://github.com/user-attachments/assets/dad717dd-ccfe-4184-9bd0-7cfb97caaf11" />
----
+
 
 ## 💡 Business Recommendations
 
@@ -75,7 +74,7 @@ To analyze return patterns and their correlation with customer ratings and produ
 - **Prioritize return rate monitoring** across brands and product lines — especially in high-volume segments.
 - **Refine product quality** in low-rated, high-return segments (like certain Adidas Originals models) to improve profitability.
 
----
+
 
 ## 🧰 Tools Used
 
@@ -83,7 +82,7 @@ To analyze return patterns and their correlation with customer ratings and produ
 - Excel Formulas for simulation and aggregation
 - Visual dynamic Dashboard with KPI summaries and insights
 
----
+
 
 ## 📌 Conclusion
 
